@@ -117,7 +117,7 @@ For writing simple programs to cryptanalyze classic ciphers, Python is a pretty 
 
 # Explore it!
 
-Explore it and twist it to your own use case, in case of any question feel free to reach me out directly `kabirdhruw24@gmail.com`.
+Explore it and twist it to your own use case, in case of any question feel free to reach me out directly `jashwanth.cyber@gmail.com`.
 
 # Some Facts about the Colossus
 
